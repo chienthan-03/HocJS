@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        ul {
+            display: none;
+        }
+        
+        input:focus~ul {
+            display: block;
+        }
+    </style>
+    <h1>HTMLDOMevent</h1>
+    <input type="text">
+    <input type="checkbox">
+    <select>
+        <option value="value1">PHP</option>
+        <option value="value2">JavaScript</option>
+        <option value="value3">HTML & CSS</option>
+    </select>
+    <div>
+        <a href="http://facebook.com">facebook</a>
+        <a href="https://google.com.vn">google</a>
+    </div>
+    <div>
+        <input placeholder="Tìm Kiếm">
+        <ul>
+            <li>C#</li>
+            <li>PHP</li>
+            <li>NodeJs</li>
+        </ul>
+    </div>
+    <div id="amen">
+        AMEN
+        <button>Ấn vào để siêu thoát</button>
+    </div>
+    <div id="btn">
+        <button id="btn2">click me!!</button>
+    </div>
+    <!-- <script src="./DOMevent.js"></script> -->
+    <!-- <script src="./preAndStop.js"></script> -->
+    <!-- <script src="./evenListen.js"></script> -->
+    <script src="./JSON.js"></script>
+</body>
+
+</html>

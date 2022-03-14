@@ -1,0 +1,19 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000u\u0000a\u0000n\u00001\u00005\u00001\u00000\u0000\r\u0000 \u0000",
+  "main": "DOMevent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luan1510/luan1510.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luan1510/luan1510/issues"
+  },
+  "homepage": "https://github.com/luan1510/luan1510#readme"
+}

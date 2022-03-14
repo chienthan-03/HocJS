@@ -1,0 +1,16 @@
+{
+  "idol": [
+    {
+      "name": "Hải Bánh",
+      "skill": "Giang hồ real",
+      "age": "55",
+      "id": 2
+    },
+    {
+      "name": "Khá Bảnh",
+      "skill": "VinaHey",
+      "age": "25",
+      "id": 3
+    }
+  ]
+}
